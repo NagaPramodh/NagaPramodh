@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **k.nagapramod28@gmail.com , 7730087821**
 
-- 📄 Know about my experiences [Resume](https://profile.indeed.com/p/knagap-0q8x0kf)
+- 📄 Know about my experiences [Portfolio](https://nagapramodh-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
