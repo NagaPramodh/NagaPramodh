@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm K NAGA PRAMODH</h1>
-<h3 align="center">Driven and determined Software Engineer promoting one year of experience in building client applications .Enthusiastic Front-End Engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Offers strong interpersonal and communication skills</h3>
+<h3 align="center">Driven and determined Software Engineer promoting one year of experience in building client applications. Enthusiastic Front-End Engineer eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Offers strong interpersonal and communication skills</h3>
 
-- 🔭 I’m currently working on **Emaily**
+- 🔭 I’m currently working on **Caretas**
 
 - 🌱 I’m currently learning **NodeJs**
 
