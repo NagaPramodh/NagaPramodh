@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **k.nagapramod28@gmail.com , 7730087821**
 
-- 📄 Know about my experiences [Portfolio](https://nagapramodh-portfolio.netlify.app/)
+- 📄 Know more about me: [Portfolio](https://nagapramodh-portfolio.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
